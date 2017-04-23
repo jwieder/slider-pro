@@ -151,10 +151,9 @@ $( '#my-slider' ).sliderPro({
 
 >Sets specific breakpoints which allow changing the look and behavior of the slider when the page resizes. 
 
->*Example:*
+*Example:*
 
->```
-$( '#my-slider' ).sliderPro({
+```$( '#my-slider' ).sliderPro({
 	width: 960, 
 	height: 400,
 	orientation: 'horizontal',
